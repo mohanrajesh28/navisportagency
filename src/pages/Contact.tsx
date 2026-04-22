@@ -120,11 +120,11 @@ export default function Contact() {
                                 <div className="flex flex-col gap-10">
                                     <div className="flex flex-col gap-2">
                                         <span className="block text-zinc-300 text-[10px] uppercase tracking-widest font-bold">Inquiries</span>
-                                        <a href="mailto:agency@navisagency.co" className="text-2xl md:text-3xl font-light hover:text-brand-accent transition-colors block leading-none tracking-tight">agency@navisagency.co</a>
+                                        <a href="mailto:agency@navisagency.co" className="text-1xl md:text-2xl font-light hover:text-brand-accent transition-colors block leading-none tracking-tight">agency@navisagency.co</a>
                                     </div>
                                     <div className="flex flex-col gap-2">
                                         <span className="block text-zinc-300 text-[10px] uppercase tracking-widest font-bold">Operations</span>
-                                        <a href="tel:+17130000000" className="text-2xl md:text-3xl font-light hover:text-brand-accent transition-colors block leading-none tracking-tight">+1 (713) 000-0000</a>
+                                        <a href="tel:+17130000000" className="text-1xl md:text-2xl font-light hover:text-brand-accent transition-colors block leading-none tracking-tight">+1 (713) 000-0000</a>
                                     </div>
                                 </div>
                             </section>
@@ -137,9 +137,7 @@ export default function Contact() {
                                     <h4 className="text-zinc-400 font-mono text-[10px] uppercase tracking-[0.3em] font-bold">HQ Location</h4>
                                 </header>
                                 <address className="not-italic text-zinc-500 font-light text-xl leading-relaxed max-w-xs">
-                                    800 Town and Country Blvd <br />
-                                    Houston, TX 77024 <br />
-                                    United States
+                                    Texas, USA
                                 </address>
                             </section>
 
